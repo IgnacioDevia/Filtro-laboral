@@ -1,0 +1,36 @@
+# Formato: nombre | url
+# Una fuente por línea. Las líneas que empiezan con # se ignoran.
+# Para añadir una fuente quita el # y reemplaza el link de ejemplo.
+# verifica si el portal que quieres añadir ofrece formato RSS o tiene un "feed"
+# por ejemplo URL que terminen en .rss,.xml, /feed. (incluí una como ejemplo)
+
+Chiletrabajos Prácticas | https://www.chiletrabajos.cl/rss/practicas
+# Fuente 02 | https://ejemplo.com/rss-02
+# Fuente 03 | https://ejemplo.com/rss-03
+# Fuente 04 | https://ejemplo.com/rss-04
+# Fuente 05 | https://ejemplo.com/rss-05
+# Fuente 06 | https://ejemplo.com/rss-06
+# Fuente 07 | https://ejemplo.com/rss-07
+# Fuente 08 | https://ejemplo.com/rss-08
+# Fuente 09 | https://ejemplo.com/rss-09
+# Fuente 10 | https://ejemplo.com/rss-10
+# Fuente 11 | https://ejemplo.com/rss-11
+# Fuente 12 | https://ejemplo.com/rss-12
+# Fuente 13 | https://ejemplo.com/rss-13
+# Fuente 14 | https://ejemplo.com/rss-14
+# Fuente 15 | https://ejemplo.com/rss-15
+# Fuente 16 | https://ejemplo.com/rss-16
+# Fuente 17 | https://ejemplo.com/rss-17
+# Fuente 18 | https://ejemplo.com/rss-18
+# Fuente 19 | https://ejemplo.com/rss-19
+# Fuente 20 | https://ejemplo.com/rss-20
+# Fuente 21 | https://ejemplo.com/rss-21
+# Fuente 22 | https://ejemplo.com/rss-22
+# Fuente 23 | https://ejemplo.com/rss-23
+# Fuente 24 | https://ejemplo.com/rss-24
+# Fuente 25 | https://ejemplo.com/rss-25
+# Fuente 26 | https://ejemplo.com/rss-26
+# Fuente 27 | https://ejemplo.com/rss-27
+# Fuente 28 | https://ejemplo.com/rss-28
+# Fuente 29 | https://ejemplo.com/rss-29
+# Fuente 30 | https://ejemplo.com/rss-30
