@@ -19,3 +19,7 @@ Las credenciales se guardan como secrets del repositorio:
 
 ## Estado
 Prototipo personal en desarrollo. Las fuentes de ofertas se configuran en `FUENTES`.
+
+## IMPORTANTE
+Este script funciona usando Github Actions
+Esta publicación es puramente para visualización del proyecto, se espera desarrollar un .exe a futuro
