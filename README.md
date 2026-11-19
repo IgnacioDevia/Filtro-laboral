@@ -1,4 +1,4 @@
-# Radar de prácticas
+# Filtro Laboral
 
 Automatización en Python que revisa ofertas de práctica en distintas fuentes,
 las filtra según mi perfil y me envía un resumen por correo cada mañana y cada noche.
@@ -6,7 +6,7 @@ las filtra según mi perfil y me envía un resumen por correo cada mañana y cad
 ## Cómo funciona
 1. Cada hora, un workflow de GitHub Actions ejecuta el script.
 2. El script lee las fuentes configuradas y puntúa cada oferta según palabras clave
-   de mi perfil (Python, SQL, Power BI, automatización, etc.).
+   del perfil laboral (Python, SQL, Power BI, automatización, etc.).
 3. Descarta ofertas ya vistas y las que piden perfiles senior.
 4. A las 8:00 y 20:00 (hora de Chile) envía por correo las mejores ofertas acumuladas.
 
@@ -23,3 +23,7 @@ Prototipo personal en desarrollo. Las fuentes de ofertas se configuran en `FUENT
 ## IMPORTANTE
 Este script funciona usando Github Actions
 Esta publicación es puramente para visualización del proyecto, se espera desarrollar un .exe a futuro
+El script esta preconfigurado con mi perfil profesional a 2 años de mi carrera de ing en computacion e informatica, los cambios a los filtros se encuentran en las primeras lineas de el archivo .py
+
+## ideas a futuro
+Planeo implementar un manual de uso
